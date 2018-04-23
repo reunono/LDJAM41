@@ -1,0 +1,6 @@
+# MTL
+
+newmtl skin_mtl
+	map_Kd player1_skin.png
+
+

@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 56e0c568c8c1de34ab362aed3efa2e4e
+timeCreated: 1524406039
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: block_default_29
+    100002: block_default_34
+    100004: block_default_35
+    100006: block_default_36
+    100008: block_default_37
+    100010: block_default_38
+    100012: detail_bullbar_24
+    100014: detail_bullbar_25
+    100016: detail_convertibleDown%_18
+    100018: detail_rollbar_33
+    100020: detail_roofDoubleRails%_17
+    100022: detail_roofDoubleRails%_19
+    100024: detail_roofDoubleRails%_20
+    100026: detail_roofDoubleRails%_22
+    100028: detail_roofDoubleRails%_23
+    100030: detail_roofRails%_21
+    100032: //RootNode
+    100034: slope_default_27
+    100036: slope_default_28
+    400000: block_default_29
+    400002: block_default_34
+    400004: block_default_35
+    400006: block_default_36
+    400008: block_default_37
+    400010: block_default_38
+    400012: detail_bullbar_24
+    400014: detail_bullbar_25
+    400016: detail_convertibleDown%_18
+    400018: detail_rollbar_33
+    400020: detail_roofDoubleRails%_17
+    400022: detail_roofDoubleRails%_19
+    400024: detail_roofDoubleRails%_20
+    400026: detail_roofDoubleRails%_22
+    400028: detail_roofDoubleRails%_23
+    400030: detail_roofRails%_21
+    400032: //RootNode
+    400034: slope_default_27
+    400036: slope_default_28
+    2100000: _defaultMat
+    2100002: roofJade
+    2100004: tire
+    2300000: block_default_29
+    2300002: block_default_34
+    2300004: block_default_35
+    2300006: block_default_36
+    2300008: block_default_37
+    2300010: block_default_38
+    2300012: detail_bullbar_24
+    2300014: detail_bullbar_25
+    2300016: detail_convertibleDown%_18
+    2300018: detail_rollbar_33
+    2300020: detail_roofDoubleRails%_17
+    2300022: detail_roofDoubleRails%_19
+    2300024: detail_roofDoubleRails%_20
+    2300026: detail_roofDoubleRails%_22
+    2300028: detail_roofDoubleRails%_23
+    2300030: detail_roofRails%_21
+    2300032: slope_default_27
+    2300034: slope_default_28
+    3300000: block_default_29
+    3300002: block_default_34
+    3300004: block_default_35
+    3300006: block_default_36
+    3300008: block_default_37
+    3300010: block_default_38
+    3300012: detail_bullbar_24
+    3300014: detail_bullbar_25
+    3300016: detail_convertibleDown%_18
+    3300018: detail_rollbar_33
+    3300020: detail_roofDoubleRails%_17
+    3300022: detail_roofDoubleRails%_19
+    3300024: detail_roofDoubleRails%_20
+    3300026: detail_roofDoubleRails%_22
+    3300028: detail_roofDoubleRails%_23
+    3300030: detail_roofRails%_21
+    3300032: slope_default_27
+    3300034: slope_default_28
+    4300000: detail_roofDoubleRails%_17
+    4300002: detail_convertibleDown%_18
+    4300004: detail_roofDoubleRails%_19
+    4300006: detail_roofDoubleRails%_20
+    4300008: detail_roofRails%_21
+    4300010: detail_roofDoubleRails%_22
+    4300012: detail_roofDoubleRails%_23
+    4300014: detail_bullbar_24
+    4300016: detail_bullbar_25
+    4300018: slope_default_27
+    4300020: slope_default_28
+    4300022: block_default_29
+    4300024: detail_rollbar_33
+    4300026: block_default_34
+    4300028: block_default_35
+    4300030: block_default_36
+    4300032: block_default_37
+    4300034: block_default_38
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
